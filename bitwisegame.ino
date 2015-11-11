@@ -130,7 +130,7 @@ void loop() {
 int binaryCompare(int *answer, int *result) {
   int x;
   
-  for(x = 0; x < 7; x++) {
+  for(x = 0; x < 8; x++) {
     if(answer[x] != result[x]) {
       return 1;
     }
