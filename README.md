@@ -1,3 +1,5 @@
+![bitwisegame](/bitwisegamephoto.jpg)
+
 TODO:
 
 ### Solve power loss issue ###
@@ -14,6 +16,9 @@ Once full functionality is achieved the usage of arrays and loops should be repl
 
 ### Add more question types ###
 Right now the game consists of AND and OR operations but my original intention for this game was to test bitmasking knowledge.
+
+### Clean up breadboard routing ###
+The wiring is pretty messy right now. In particular it's difficult to access the switches so it'd be a good idea to link the ground rails together so I can use both sides.
 
 ### Edit and publish current documentation ###
 I have a few pages documenting my progress from the beginning, as well as photos of the breadboard prototype that I would like to clean up and present here.
